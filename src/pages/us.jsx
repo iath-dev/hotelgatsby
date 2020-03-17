@@ -1,9 +1,9 @@
 import React from "react"
-import { Layout } from "../components"
+import { Layout, ContentUS } from "../components"
 
 const IndexPage = () => (
   <Layout>
-    <h1>Nosotros</h1>
+    <ContentUS />
   </Layout>
 )
 
